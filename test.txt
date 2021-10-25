@@ -1,0 +1,2 @@
+this is the sample txt file, for java assignment1,
+this is harsh vardhan
