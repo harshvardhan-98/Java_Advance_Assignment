@@ -138,9 +138,12 @@ public static void main(String[] args) {
 Outer x = new Outer(); 
 x.outerMethod(); 
 } 
-}.
+}
+
 Q12. Design an Employee class having attributes as empID, empName & empAge. The sample data of Employees is stored in a text file Employee.txt where the details are separated by “,”. Load an array of Employee using static block which comprises the Employee object created from the sample data stored in Employee.txt file. Allow the user to modify the Employee details in the array and save the updated information back to the file Employee.txt.
+
 Q13. Write a Java program that implements a multi-thread application that has three threads. First thread generates a random integer every 1 second and if the value is even, the second thread computes the square of the number and prints. If the value is odd, the third thread will print the value of the cube of the number.
+
 Q14. Write a program having user interface like
 4. accept first name and surname
 5. display total name
@@ -149,4 +152,5 @@ Option A should accept First Name and SurName from command prompt and save that 
 Option B it has to display how many names entered in the vector object
 This menu should be repeated till users select exit.
 To store first name and surname, create a class Name with these two attributes.
+
 Q15. Write a Java program to get the last modified time of a file. 
